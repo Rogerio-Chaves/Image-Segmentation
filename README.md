@@ -11,19 +11,19 @@ texture [1].
 
 ### Classical Techniques
 
-[1. Thresholding]()
+[1. Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/001_Thresholding)
 
-[2. Edge Detection]()
+[2. Edge Detection](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/002_Edge_Detection)
 
-[3. Region-Based Segmentation]()
+[3. Region-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/003_Region-Based_Segmentation)
 
-[4. Cluster-Based Segmentation]()
+[4. Cluster-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/004_Cluster-Based_Segmentation)
 
-[5. Watershed Segmentation]()
+[5. Watershed Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/005_Watershed_Segmentation)
 
-[6. Color-Based Segmentation]()
+[6. Color-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/006_Color-Based_Segmentation)
 
-[Appendixes]()
+[Appendixes](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/Appendixes)
 
 ## References:
 
