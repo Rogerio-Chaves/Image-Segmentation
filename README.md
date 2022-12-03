@@ -25,6 +25,18 @@ texture [1].
 
 [Appendixes](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/readme/001_Classical_Techniques/Appendixes)
 
+### Instance Segmentation
+
+Not available yet
+
+### Semantic Segmentation
+
+Not available yet
+
+### Panoptic Segmentation
+
+Not available yet
+
 ## References:
 
 [1] Montes, C. A. (n.d.). Practical Computer Vision: Theory & Applications [Slide show]. basque center for applied mathematics. http://www.bcamath.org/documentos_public/courses/course_day2.pdf
