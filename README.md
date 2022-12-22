@@ -13,6 +13,16 @@ texture [1].
 
 [1. Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/001_Thresholding)
 
+[1.1. Global Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding)
+
+[1.2. Adaptive Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/001_Thresholding/002_Adaptive_Thresholding)
+
+[1.2.1 Adaptive Thresholding Theory](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/002_Adaptive_Thresholding/001_Adaptive_Thresh-Theory.ipynb)
+
+[1.2.2 Adaptive Thresholding - Mean](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/002_Adaptive_Thresholding/002.Adaptive_Thresh-Mean.ipynb)
+
+[1.2.3 Adaptive thrsholding - Gaussian](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/002_Adaptive_Thresholding/003.Adaptive_Thresh-Gaussian.ipynb)
+
 [2. Edge Detection](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/002_Edge_Detection)
 
 [3. Region-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/003_Region-Based_Segmentation)
