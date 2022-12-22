@@ -21,11 +21,11 @@ texture [1].
 
 [1.1.3. Inverted Binary Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/003_Inverted_Binary_Thresholding.ipynb)
 
-[1.1.4.]()
+[1.1.4. Truncated Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/004_Truncated_Thresholding.ipynb)
 
-[1.1.5.]()
+[1.1.5. To Zero Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/005_To_Zero_Thresholding.ipynb)
 
-[1.1.6.]()
+[1.1.6. Inverted To Zero Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/006_To_Inverted_Zero_Thresholding.ipynb)
 
 [1.1.7. Tomography Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/007_Tomogaphy_Challenge.ipynb)
 
