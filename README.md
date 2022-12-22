@@ -17,9 +17,9 @@ texture [1].
 
 [1.1.1. Thresholding Theory](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/001_Thresholding-Theory.ipynb)
 
-[1.1.2.]()
+[1.1.2. Binary Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/002_binary_thresholding.ipynb)
 
-[1.1.3.]()
+[1.1.3. Inverted Binary Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/003_Inverted_Binary_Thresholding.ipynb)
 
 [1.1.4.]()
 
@@ -35,11 +35,11 @@ texture [1].
 
 [1.1.10. Coins Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/010_Coins_Challenge.ipynb)
 
-[1.1.11.]()
+[1.1.11. Otsu's Method Theory](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/011_Otsus_Method-Theory.ipynb)
 
-[1.1.12.]()
+[1.1.12. Otsu's Method - Implementation 01](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/012_Otsus_Method-Implementation_01.ipynb)
 
-[1.1.13.]()
+[1.1.13. Otsu's Method - Implementation 02](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/001_Thresholding/001_Global_Thresholding/013_Otsus_Method-Implementation_02.ipynb)
 
 [1.2. Adaptive Thresholding](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/001_Thresholding/002_Adaptive_Thresholding)
 
