@@ -7,7 +7,11 @@ multiple segments (sets of pixels or regions), which are similar with respect
 to some characteristic or computed property, such as color, intensity, or
 texture [1].
 
-## Content
+## Intructions:
+
+To read the files in this repository, you can navigate through the directories and files or use the links in this readme file.
+
+## Content:
 
 ### Classical Techniques
 
