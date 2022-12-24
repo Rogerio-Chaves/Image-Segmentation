@@ -71,6 +71,8 @@ texture [1].
 
 [Appendixes](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/Appendixes)
 
+* [Appendix A - Morphology Operators](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/Appendixes/Appendix_A-Morphology_Operators.ipynb)
+
 ### Instance Segmentation
 
 Not available yet
