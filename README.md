@@ -51,6 +51,16 @@ texture [1].
 
 [2. Edge Detection](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/002_Edge_Detection)
 
+* [2.1. Sobel Operator](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/002_Edge_Detection/001_Sobel_Operator.ipynb)
+
+* [2.2. Canny Edge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/002_Edge_Detection/002_Canny_Edge.ipynb)
+
+* [2.3. Canny Edge - Coins Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/002_Edge_Detection/003_Canny_Edge-Coins_Challenge.ipynb)
+
+* [2.4. Canny Edge - Thermal Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/002_Edge_Detection/004_Canny_Edge-Thermal_Challenge.ipynb)
+
+* [2.5. Canny Edge - Noise Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/002_Edge_Detection/005_Canny_Edge-Noise_Challenge.ipynb)
+
 [3. Region-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/003_Region-Based_Segmentation)
 
 [4. Cluster-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/004_Cluster-Based_Segmentation)
