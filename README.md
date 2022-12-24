@@ -67,6 +67,14 @@ To read the files in this repository, you can navigate through the directories a
 
 [3. Region-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/003_Region-Based_Segmentation)
 
+* [3.1. Region-Based](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/003_Region-Based_Segmentation/001_Region-Based.ipynb)
+
+* [3.2. Region-Based - Landscape 02 Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/003_Region-Based_Segmentation/002_Region-Based_Landscape-02.ipynb)
+
+* [3.3. Region-Based - Tomography Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/003_Region-Based_Segmentation/003_Tomography_Challenge.ipynb)
+
+* [3.4. Region-Based - Eagle Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/003_Region-Based_Segmentation/004_Eagle_Challenge.ipynb)
+
 [4. Cluster-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/004_Cluster-Based_Segmentation)
 
 [5. Watershed Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/005_Watershed_Segmentation)
