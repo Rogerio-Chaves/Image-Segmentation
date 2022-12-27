@@ -77,11 +77,33 @@ To read the files in this repository, you can navigate through the directories a
 
 [4. Cluster-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/004_Cluster-Based_Segmentation)
 
+* [4.1. Cluster-Based Segmentation - Introduction](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/004_Cluster-Based_Segmentation/001_Cluster-Based-Theory.ipynb)
+
+* [4.2. Cluster-Based Segmentation - Landscape](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/004_Cluster-Based_Segmentation/002_Cluster-Based_Landscape.ipynb)
+
+* [4.3. Cluster-Based Segmentation - Eagle](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/004_Cluster-Based_Segmentation/003_Cluster-Based_Eagle.ipynb)
+
+* [4.4. Cluster-Based Segmentation - Tomography Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/004_Cluster-Based_Segmentation/004_Cluster-Based_Tomography_Challenge.ipynb)
+
 [5. Watershed Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/005_Watershed_Segmentation)
+
+* [5.1. Watershed Segmentation - Introduction](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/005_Watershed_Segmentation/001_Watershed_Theory.ipynb)
+
+* [5.2. Watershed Segmentation - Coins Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/005_Watershed_Segmentation/002_Watershed_Coins-Challenge.ipynb)
+
+* [5.3. Watershed Segmentation - RBC Challenge](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/005_Watershed_Segmentation/003_Watershed_RBC-Challenge.ipynb)
 
 [6. Color-Based Segmentation](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/006_Color-Based_Segmentation)
 
-[Appendixes](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/Appendixes)
+* [6.1. Color-Based Segmentation - Introduction](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/006_Color-Based_Segmentation/001_Color-Based_Introduction.ipynb)
+
+* [6.2. Color-Based Segmentation - Magic Cube Challenge RGB](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/006_Color-Based_Segmentation/002_Color-Based_Magic-Cube-Challenge_RGB.ipynb)
+
+* [6.3. Color-Based Segmentation - Magic Cube Challenge HSV](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/006_Color-Based_Segmentation/003_Color-Based_Magic-Cube-Challenge_HSV.ipynb)
+
+* [6.4. Color-Based Segmentation - Rice Grains Challenge HSV](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/006_Color-Based_Segmentation/004_Color-Based_Rice-Grains-Challenge_HSV.ipynb)
+
+[7. Appendixes](https://github.com/Rogerio-Chaves/Image_Segmentation/tree/main/001_Classical_Techniques/Appendixes)
 
 * [Appendix A - Morphology Operators](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/001_Classical_Techniques/Appendixes/Appendix_A-Morphology_Operators.ipynb)
 
