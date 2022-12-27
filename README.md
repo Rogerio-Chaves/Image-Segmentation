@@ -1,11 +1,11 @@
 # Image Segmentation
 
-## Whats is it?
-
 <b>Image segmentation</b> is the process of partitioning a digital image into
 multiple segments (sets of pixels or regions), which are similar with respect
 to some characteristic or computed property, such as color, intensity, or
 texture [1].
+
+This course is based on the course [Segmentação de Imagens com Python de A à Z](https://iaexpert.academy/cursos-online-assinatura/segmentacao-imagens-python-a-z/) offered by the IA Expert Academy.
 
 ## Intructions:
 
