@@ -129,6 +129,14 @@ Not available yet
 
 Not available yet
 
+## Collaborators:
+
+### Rogerio Chaves
+
+:envelope: E-mail: chaves.rogerio@outlook.com
+
+Github: https://github.com/Rogerio-Chaves
+
 ## References:
 
 [1] Montes, C. A. (n.d.). Practical Computer Vision: Theory & Applications [Slide show]. basque center for applied mathematics. http://www.bcamath.org/documentos_public/courses/course_day2.pdf
