@@ -115,7 +115,7 @@ Not available yet
 
 [1.1. U-Net - Introduction](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/003_Semantic_Segmentation/001_U-Net_Introduction.ipynb)
 
-[1.2]()
+[1.2.]()
 
 [1.3. U-Net - Retina Challenge (NOT AVAILABLE YET)]
 
@@ -124,6 +124,10 @@ Not available yet
 [1.5. DeepLab - Image Segmentation - MobileNetV2](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/003_Semantic_Segmentation/005_DeepLab_Image_Segmentation_Mobile_Net_v2.ipynb)
 
 [1.6. DeepLab - Video Segmentation - MobileNetV2](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/003_Semantic_Segmentation/006_DeepLab_Video_Segmentation_Mobile_Net_v2.ipynb)
+
+[1.7. DeepLab - Image Segmentation - Xception 65](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/003_Semantic_Segmentation/007_DeepLab_Image_Segmentation_Xception65.ipynb)
+
+[1.8. DeepLab - Video Segmentation - Xception 65](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/003_Semantic_Segmentation/008_DeepLab_Video_Segmentation_Xception65.ipynb)
 
 ### Panoptic Segmentation
 
