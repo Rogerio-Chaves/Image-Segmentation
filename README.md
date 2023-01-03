@@ -131,7 +131,7 @@ Not available yet
 
 ### Panoptic Segmentation
 
-Not available yet
+[1.1. Panoptic Segmentation - Introduction](https://github.com/Rogerio-Chaves/Image_Segmentation/blob/main/004_Panoptic_Segmentation/001_Panoptic_Introduction.ipynb)
 
 ## Collaborators:
 
